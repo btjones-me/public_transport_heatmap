@@ -7,4 +7,4 @@ Will create a heatmap of the journey times from a given location to all location
 
 Useful for deciding where to live based on journey times (not distance) from areas of interest. 
 
-Will work in a similar way to [mapnificent](https://www.mapnificent.net/london/) which is very useful, except this will be capable of visualising an extra dimension 
+Will work in a similar way to [mapnificent](https://www.mapnificent.net/london/) which is very useful, except this will be capable of visualising an extra dimension (all journey times displayed, not slicing at a given journey time for a given location)
