@@ -1,4 +1,11 @@
 # public_transport_heatmap
+
+---
+**NOTE**
+
+Decomissioned and superceded by project on GitLab
+---
+
 London public transport heatmap displaying journey times 
 
 WIP model that takes data from the Google Maps API for random coordinates across a city, and then uses the journey times to predict any journey time between two locations. 
