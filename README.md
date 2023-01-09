@@ -1,5 +1,7 @@
 # public_transport_heatmap
 
+The start of an application to produce public transport journey times as a heatmap - interpolated from API data using a proprietary ML model.  
+
 ---
 **NOTE**
 
